@@ -109,7 +109,6 @@ module tb_mealy;
         #50 $finish;
     end
 endmodule
-
 ```
 ## Simulation Output 
 ---
@@ -121,4 +120,3 @@ endmodule
 
 The Mealy Machine Sequence Detector for the bit pattern "11011" was successfully designed and simulated using Verilog HDL.
 Simulation results confirm that the circuit correctly detects the pattern and supports overlapping sequences.
-
